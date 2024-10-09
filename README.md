@@ -1,4 +1,4 @@
-# **Lista de Exercícios 1 - Linguagens e Técnicas de Programação I em Python**
+# **Lista de Exercícios 1 **
 
 Esta lista de exercícios faz parte da disciplina **Linguagens e Técnicas de Programação I** e foi desenvolvida para praticar conceitos fundamentais de programação em Python. Os exercícios abrangem desde estruturas condicionais até a manipulação de listas e tuplas, além da implementação de algoritmos básicos.
 
